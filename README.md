@@ -1,6 +1,18 @@
-# R shiny App
-## Shiny App for Analysis of Social Influence
-### Social Influence Model based on Edge Attraction 
+# R shiny App : Shiny App for Analysis of Social Influence
+
+## App Code
+app_final.R
+
+## Data
+1. edgelist.csv : Edgelist
+2. item_response.csv : Item Response
+3. mu_matrix.csv : MU matrix
+4. zest.csv : First actor latent position
+5. aest.csv : Second actor latent position
+6. best.csv : Item latent position
+7. radii2est.csv : Second radius matrix
+
+## Social Influence Model based on Edge Attraction 
 : LSM(Latent Space Model) + LSIRM(Latent Space Item-Response Model)
 
 <img src="https://user-images.githubusercontent.com/87705722/218953722-d4e9b664-3574-4d14-8e1a-d7d39e4fc2a5.jpg" width="500" height="300"/>
